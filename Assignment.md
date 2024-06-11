@@ -1,12 +1,15 @@
-# Software engineering:
+#Assignment
 
-    Is the science of developing software applications tailored to provide a specific solution. It often involves an individual developer or a group of developers working on a pre defined  set of rules and principles known within the displine to ensure quality production within a specific set of time.
+**Software engineering:**
 
-# What is software engineering, and how does it differ from traditional programming?
+Is the science of developing software applications tailored to provide a specific solution. It often involves an individual developer or a group of developers working on a pre defined  set of rules and principles known within the displine to ensure quality production within a specific set of time.
+
+**What is software engineering, and how does it differ from traditional programming?**
 
     Software engineering observe engineering principles to ensure the quality of the end product while tradition programming is more of inclined to solve a particular and not necessarily observing the principals of maintanability and reusability.
 
-# Phases of Software Development**
+**Phases of Software Development**
+
 **Requirement gathering:**
      Developers collaborate to crate documentation of the software while considering the user needs and technical specifications.
 
