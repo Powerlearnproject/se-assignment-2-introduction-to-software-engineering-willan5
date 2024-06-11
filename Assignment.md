@@ -6,7 +6,7 @@ Is the science of developing software applications tailored to provide a specifi
 
 **What is software engineering, and how does it differ from traditional programming?**
 
-    Software engineering observe engineering principles to ensure the quality of the end product while tradition programming is more of inclined to solve a particular and not necessarily observing the principals of maintanability and reusability.
+Software engineering observe engineering principles to ensure the quality of the end product while tradition programming is more of inclined to solve a particular and not necessarily observing the principals of maintanability and reusability.
 
 **Phases of Software Development**
 
