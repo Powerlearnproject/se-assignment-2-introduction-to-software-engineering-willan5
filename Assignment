@@ -9,4 +9,16 @@
 # Phases of Software Development**
 **Requirement gathering:**
      Developers collaborate to crate documentation of the software while considering the user needs and technical specifications.
+
+**Design:**
+    This involves the planning and structuring of the software in question. It involves the design of the UI and databases or any other area that may impact the use of the software.
+
+**Implemenation:**
+    Here is where the actual coding is done following the agreed plan in the previous phases.
+
+**Testing:**
+    At this point, the developers test the functionality of the software to see if it serve its purpose.
+
+**Deployment:**
+    Once testing has been done and the team has been satisfied on its functionalities, deployment is then done to give access to users. 
     
