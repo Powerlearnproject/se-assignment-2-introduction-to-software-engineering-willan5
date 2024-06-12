@@ -43,7 +43,7 @@ Software engineering observe engineering principles to ensure the quality of the
 
 **Agile**
 
-    Is a way ofdevelopment that is repeatatve.
-    Through the development process, it enssure collaboration and eedback from the users as the product is being developed.
+Is a way ofdevelopment that is repeatatve.
+Through the development process, it enssure collaboration and eedback from the users as the product is being developed.
 
 
