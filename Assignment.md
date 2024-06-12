@@ -28,5 +28,22 @@ Software engineering observe engineering principles to ensure the quality of the
     At this point, the developers test the functionality of the software to see if it serve its purpose.
 
 **v.    Deployment:**
-    Once testing has been done and the team has been satisfied on its functionalities, deployment is then done to give access to users. 
-    
+    Once testing has been done and the team has been satisfied on its functionalities, deployment is then done to give access to users.
+
+**vi.    Maintenance:**
+    This involves support to help users by keeping the software updated to ensure proper functionality.
+
+**4. Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred? Requirements Engineering:**
+
+**Waterfall**
+
+    Its a traditional approach to software development that follows each step of SDLC to completion before moving to the next.
+
+    Its suitable for projects where the functionalities of the end product acan be predicted before hand.
+
+**Agile**
+
+    Is a way ofdevelopment that is repeatatve.
+    Through the development process, it enssure collaboration and eedback from the users as the product is being developed.
+
+
